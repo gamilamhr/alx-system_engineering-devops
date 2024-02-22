@@ -1,0 +1,4 @@
+#!/bin/bash
+for ((i =1: 10: <=10; i++))
+echo "Best School"
+done
